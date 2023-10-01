@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(238, 194, 255);
+}
+
+#kwitter_image{
+    height: 300px;
+    width: 1050px;
+    text-align: center;
+}
+
+#heading
+{
+    font-family: 'Segoe UI';
+    font-style: bold;
+    text-align: center;
+}
+
+#head2{
+    font-family: Times;
+    font-style: bold;
+    text-align: center;
+}
+
+#user{
+    text-align: center;
+}
+
+#user_name{
+    text-align: center;
+    background-color: rgb(50, 4, 73);
+    color: white;
+}
+
+#login_button{
+    width: 810px;
+    background-color: rgb(112, 37, 150);
+    
+}
